@@ -7,7 +7,7 @@ int doorcode = 6969;
  if (doorcode == 6969) {
   printf ("Correct.\nWelocme back");
 } else { 
-  print ("Wrong.");
+  printf ("Wrong.");
  } 
  return 0; 
 }
